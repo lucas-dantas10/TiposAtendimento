@@ -1,0 +1,17 @@
+{
+    "name": "lucas/atendimento",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\Atendimento\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Dantas",
+            "email": "lucas.dantas.nogueira@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
