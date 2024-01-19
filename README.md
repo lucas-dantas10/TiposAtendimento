@@ -24,6 +24,8 @@ DB_PORT="" //porta
 DB_NAME="" //nome do database
 DB_USERNAME="" //usuario
 DB_PASSWORD="" //senha
+
+SECRET_TOKEN="" //token para verificação
 ```
 
 ##

@@ -8,10 +8,11 @@ use PDO;
 class TypesServices 
 {
     private $conn;
-    private $token = "minhachave";
+    private $token;
     public function __construct(Database $conn)
     {
         $this->conn = $conn;
+        $this->token = $_ENV["SECRET_TOKEN"];
     }
 
     public function validateKey($key) {
