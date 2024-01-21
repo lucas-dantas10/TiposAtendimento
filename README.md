@@ -9,9 +9,20 @@
 php -S localhost:8080
 ```
 
+## Após o clone do projeto, entre no diretório do projeto e rode:
+
+```json
+composer install
+composer dump-autoload
+```
+
 ##
 
-### Mudar nome do arquivo .env.example para .env
+### Copiar o arquivo .env.example para .env
+
+```json
+cp .env.example .env
+```
 
 ##
 
