@@ -2,7 +2,7 @@
     "name": "lucas/atendimento",
     "autoload": {
         "psr-4": {
-            "Lucas\\Atendimento\\": "src/"
+            "Atendimento\\": "src/"
         }
     },
     "authors": [
