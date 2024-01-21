@@ -1,7 +1,7 @@
 <?php declare(strict_types= 1);
 
-use Lucas\Atendimento\Connection\Database;
-use Lucas\Atendimento\Models\TypesServices;
+use Atendimento\Connection\Database;
+use Atendimento\Models\TypesServices;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
