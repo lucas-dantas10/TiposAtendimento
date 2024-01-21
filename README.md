@@ -1,17 +1,21 @@
 # Como funciona?
 
+## Utilizado
+[PHP](https://www.php.net/downloads.php) -> Versão 8.3.1 || 
+[Composer](https://getcomposer.org/download/) -> Versão 2.6.6
+
 ## 🔥 Introdução
 
 ### Endpoint : `http://localhost:8080/tipos-atendimentos.php` METHOD=POST
 
 ### Comando para iniciar um servidor php local. Inicie este comando no diretorio principal do projeto
-```json
+```bash
 php -S localhost:8080
 ```
 
 ## Após o clone do projeto, entre no diretório do projeto e rode:
 
-```json
+```bash
 composer install
 composer dump-autoload
 ```
