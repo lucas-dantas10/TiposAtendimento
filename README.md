@@ -30,7 +30,9 @@ SECRET_TOKEN="" //token para verificação
 
 ##
 
-## Fazer requisição para o endpoint mencionado acima com o método POST
+## Utilizar o arquivo 'sql' que está na pasta query/query_atendimento.sql e executar no banco de dados
+
+## Fazer requisição para o endpoint mencionado no início com o método POST
 
 ## No body precisa passar as informações deste modo:
 ```json
