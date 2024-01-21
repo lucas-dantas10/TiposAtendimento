@@ -4,7 +4,7 @@
 
 ### Endpoint : `http://localhost:8080/tipos-atendimentos.php` METHOD=POST
 
-### Comando para iniciar um servidor php local
+### Comando para iniciar um servidor php local. Inicie este comando no diretorio principal do projeto
 ```json
 php -S localhost:8080
 ```
