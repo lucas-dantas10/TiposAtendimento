@@ -1,8 +1,8 @@
 <?php declare(strict_types= 1);
 
-namespace Lucas\Atendimento\Models;
+namespace Atendimento\Models;
 
-use Lucas\Atendimento\Connection\Database;
+use Atendimento\Connection\Database;
 use PDO;
 
 class TypesServices 

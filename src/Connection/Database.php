@@ -1,6 +1,6 @@
 <?php declare(strict_types= 1);
 
-namespace Lucas\Atendimento\Connection;
+namespace Atendimento\Connection;
 use PDO;
 use PDOException;
 
